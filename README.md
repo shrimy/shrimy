@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### ℹ️ Personal info:
+### ℹ️ Personal info
 
 🎓 **Engineering and Data Analysis Student** | Rzeszów University of Technology  
 📊 Passionate about data analysis, programming, and databases  
