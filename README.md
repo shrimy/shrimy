@@ -22,7 +22,11 @@
 
 #### 🌐 HTML, CSS, JavaScript  
 - Basic knowledge acquired through a web development project  
-- Built and styled a functional website  
+- Built and styled a functional website
+
+#### 🔄 Git  
+- Version control and collaborative development  
+- Experience with repositories, branching, merging, and resolving conflicts  
 
 ### 🎯 To Learn & Work On  
 - 🛠️ Expanding knowledge in various areas of Python programming  
