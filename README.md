@@ -28,7 +28,7 @@
 - 🛠️ Expanding knowledge in various areas of Python programming  
 - 🛠️ Completing a course in Machine Learning / AI  
 - 🛠️ Improving Git skills  
-- 🛠️ Working on an engineering project: **"Detection and Analysis of Network Threats Using Machine Learning Algorithms"**  
+- 🛠️ Working on my engineering thesis: **"Detection and Analysis of Network Threats Using Machine Learning Algorithms"**  
 
 ### 📫 Contact  
 Feel free to reach out to me via my email 👉 prybka3@gmail.com 👈. 
